@@ -1,0 +1,79 @@
+---
+title: "MT3003 tentamen"
+author: "[förnamn] [efternamn] ([personnummer])"
+date: '2021-08-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, error = TRUE, message = FALSE) # Ändra ej
+```
+
+## Försäkran och identifiering
+
+Jag, [förnamn] [efternamn] ([personnummer]), försäkrar att lösningarna bifogat i denna fil är mitt eget självständigt utförda arbete.
+
+```{r, echo = FALSE, out.width = "50%", fig.cap = "Bild på min identitetshandling och datorskärm"}
+knitr::include_graphics("[min_id_bild.jpg]")
+```
+
+## Uppgift 1
+
+Flest fall rapporterades
+
+```{r}
+# Min kod
+```
+
+Min tabell över antalet fall per veckodag ges av 
+
+```{r}
+# Min kod
+```
+
+Min figur över antalet fall per vecka ges av
+
+```{r}
+# Min kod
+```
+
+
+## Uppgift 2
+
+Min tabell `covid_region` skapas av
+
+```{r}
+# Min kod
+```
+
+Min figur över Covid-19 fall i storstadsregionerna ges av
+
+```{r}
+# Min kod
+```
+
+Min figur över antalet fall per invånare i region ges av
+
+```{r}
+# Min kod
+```
+
+## Uppgift 3
+
+Min kod för att bestämma de 10 atleter som har flest kast på listan ges av
+
+```{r}
+# Min kod
+```
+
+Min kod för att skapa en lista över världsrekord ges av
+
+```{r}
+# Min kod
+```
+
+Det land/landskod med flest atleter på listan ges av
+
+```{r}
+# Min kod
+```
